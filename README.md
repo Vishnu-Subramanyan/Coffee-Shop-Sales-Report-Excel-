@@ -42,7 +42,7 @@ coffeeOrdersProject.xlsx
 
 **Clone the Repository:**
 
-git clone https://github.com/yourusername/coffeeshop-sales-report.git
+git clone https://github.com/Vishnu-Subramanyan/coffeeshop-sales-report.git
 
 **Download the File:**
 
